@@ -3,7 +3,7 @@ name: Connor Williamson
 title: Cloud Enterprise Architect
 location: Oklahoma City, OK
 tags: [cloud, infrastructure, sysops, system-administration, networking, help-desk, computer-network-operations, management-systems, system-deployment, jira, leadership]
-open_to: [full-time]
+open_to: [testing]
 ---
 
 # Connor Williamson
